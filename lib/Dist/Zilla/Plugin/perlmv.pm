@@ -166,4 +166,6 @@ each F<lib/App/perlmv/scriptlet/*.pm> file:
 
 =head1 SEE ALSO
 
+L<perlmv> from L<App::perlmv>
+
 L<Pod::Weaver::Plugin::perlmv>
